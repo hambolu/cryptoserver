@@ -1,0 +1,28 @@
+{
+    "name": "crypto-wallets",
+    "version": "1.0.0",
+    "description": "",
+    "main": "crypto.js",
+    "scripts": {
+        "start": "node crypto.js"
+    },
+    "engines": {
+        "node": "16.x"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "axios": "^0.26.1",
+        "blockexplorer": "^1.0.1",
+        "body-parser": "^1.19.1",
+        "crypto-balances": "^2.1.3",
+        "crypto-balances-2": "^1.0.9",
+        "crypto-wallets": "^1.0.0",
+        "erc20-wallet": "^1.0.5",
+        "express-handlebars": "^6.0.2",
+        "node-binance-sdk": "^1.0.5",
+        "wallet-address-validator": "^0.2.4",
+        "send-crypto": "^0.2.36",
+        "web3": "^1.8.0"
+    }
+}
